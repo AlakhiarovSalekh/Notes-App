@@ -77,7 +77,7 @@ dependencies {
     implementation("androidx.hilt:hilt-navigation-compose:1.1.0-alpha01")
 
     // Coroutines
-    val coroutineVersion = "1.7.1"
+    val coroutineVersion = "1.11.0"
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:$coroutineVersion")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:$coroutineVersion")
 

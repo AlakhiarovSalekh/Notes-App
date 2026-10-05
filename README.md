@@ -59,6 +59,8 @@ The repository demonstrates a modern Android stack with declarative UI, dependen
 
 Issues and focused pull requests are welcome for bug fixes, accessibility, UI polish, documentation, and architecture improvements.
 
+> If this project is useful to you, consider starring the repository. It helps you find it again and helps other developers discover the project.
+
 ## More Projects by Salekh
 
 - [Lector](https://github.com/AlakhiarovSalekh/Lector) — offline Android text/PDF/EPUB reader with text-to-speech.

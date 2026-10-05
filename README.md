@@ -59,6 +59,12 @@ The repository demonstrates a modern Android stack with declarative UI, dependen
 
 Issues and focused pull requests are welcome for bug fixes, accessibility, UI polish, documentation, and architecture improvements.
 
+## More Projects by Salekh
+
+- [Lector](https://github.com/AlakhiarovSalekh/Lector) — offline Android text/PDF/EPUB reader with text-to-speech.
+- [Weather App](https://github.com/AlakhiarovSalekh/Weather-App) — Android weather application with local data and charts.
+- [Android Kotlin Bluetooth Chat App](https://github.com/AlakhiarovSalekh/Android-Kotlin-Bluetooth-Chat-App) — Bluetooth chat for Android.
+
 ## Author
 
 **Salekh Alakhiarov** · [GitHub](https://github.com/AlakhiarovSalekh)

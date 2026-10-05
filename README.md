@@ -1,4 +1,4 @@
-# Notes App — Jetpack Compose
+# Android Notes App — Kotlin, Jetpack Compose, Room & Hilt
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-Android-7F52FF?logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-4285F4?logo=jetpackcompose&logoColor=white)](https://developer.android.com/compose)

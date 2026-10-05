@@ -39,6 +39,18 @@ git clone https://github.com/AlakhiarovSalekh/Notes-App.git
 
 Open the project in Android Studio, synchronize Gradle, and run the `app` module on an emulator or Android device.
 
+You can also verify a debug build from the repository root using the included Gradle wrapper:
+
+```bash
+./gradlew assembleDebug
+```
+
+On Windows:
+
+```powershell
+.\gradlew.bat assembleDebug
+```
+
 ## Why this project
 
 The repository demonstrates a modern Android stack with declarative UI, dependency injection, local persistence, asynchronous work, navigation, and layered architecture.

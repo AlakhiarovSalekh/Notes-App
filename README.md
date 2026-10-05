@@ -1,5 +1,5 @@
 <div align="center">
-<img width="500" src="https://github.com/SALEKH7/Notes-App/assets/94545831/d16b218d-abf3-46cb-a1c1-137301df6bed" /></div>
+<img width="500" src="https://github.com/AlakhiarovSalekh/Notes-App/assets/94545831/d16b218d-abf3-46cb-a1c1-137301df6bed" /></div>
 
 ## Notes App Compose 📒
 
